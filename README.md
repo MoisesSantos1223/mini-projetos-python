@@ -26,6 +26,7 @@ Arquivo:
 
 ```text
 cadastro_simples_produtos.py
+gerenciador_tarefas.py
 ```
 
 ## Observação
