@@ -27,6 +27,15 @@ Arquivo:
 ```text
 cadastro_simples_produtos.py
 ```
+```text
+sistema-resumo-compra.py
+```
+```text
+gerenciador_tarefas.py
+```
+```text
+sistema_de_login.py
+```
 
 ## Observação
 
