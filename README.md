@@ -28,9 +28,12 @@ Arquivo:
 cadastro_simples_produtos.py
 ```
 ```text
+<<<<<<< HEAD
 sistema-resumo-compra.py
 ```
 ```text
+=======
+>>>>>>> 219cebd639a2b5584d7f77653f348d4c9c396658
 gerenciador_tarefas.py
 ```
 ```text
